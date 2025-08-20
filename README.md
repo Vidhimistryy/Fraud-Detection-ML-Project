@@ -113,3 +113,17 @@ This project detects **fraudulent credit card transactions** using **Machine Lea
 2. Install required libraries:
 ```bash
 !pip install -r requirements.txt
+
+---
+
+## Repository Structure
+Fraud-Detection-ML-Project/
+├─ Fraud_Detection_Colab.ipynb       # Main notebook
+├─ fraud_alerts.csv                  # Predicted fraud transactions
+├─ requirements.txt                  # Python environment
+├─ PowerBI_Screenshots/              # Dashboard screenshots
+├─ model/                             # Saved ML model (optional)
+│   └─ fraud_model.pkl
+└─ README.md                         # Project description
+
+---
