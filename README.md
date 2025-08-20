@@ -125,11 +125,6 @@ This project detects **fraudulent credit card transactions** using **Machine Lea
 - Actionable fraud alerts in CSV format  
 - Professional Power BI dashboards for reporting  
 
-**Example Visualizations:**  
-![Fraud Distribution](PowerBI_Screenshots/fraud_distribution.png)  
-![Confusion Matrix](PowerBI_Screenshots/confusion_matrix.png)  
-![Dashboard Overview](PowerBI_Screenshots/dashboard_overview.png)  
-
 ---
 
 ## **How to Run**
