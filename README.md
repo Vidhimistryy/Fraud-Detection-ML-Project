@@ -10,8 +10,6 @@ This project detects **fraudulent credit card transactions** using **Machine Lea
 - **Cybersecurity Monitoring:** Detection of suspicious financial transactions  
 - **Data Visualization:** Colab plots and professional Power BI dashboards  
 
-> Ideal for fintech, banking, and cybersecurity portfolios.
-
 ---
 
 ## **Dataset**
