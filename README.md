@@ -55,18 +55,6 @@ This project detects **fraudulent credit card transactions** using **Machine Lea
 
 ---
 
-## **How to Run**
-1. Open `Fraud_Detection_Colab.ipynb` in Google Colab  
-2. Install required libraries:
-```bash
-!pip install -r requirements.txt
-# Fraud Detection & Cybersecurity Monitoring
-
-[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
-[![Power BI](https://img.shields.io/badge/PowerBI-Desktop-green)](https://powerbi.microsoft.com/)
-
----
-
 ## **Project Overview**
 This project detects **fraudulent credit card transactions** using **Machine Learning** and provides actionable insights through **Power BI dashboards**. It combines:
 
