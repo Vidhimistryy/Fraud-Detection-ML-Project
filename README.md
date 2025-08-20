@@ -23,9 +23,8 @@ This project detects **fraudulent credit card transactions** using **Machine Lea
 ## **Tools & Libraries**
 - **Python:** pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn, openpyxl  
 - **Google Colab:** ML modeling and visualization  
-- **Power BI:** Interactive dashboards  
+- **Power BI:** Interactive dashboards
 - **Optional:** Flask API for real-time predictions  
-
 ---
 
 ## **Project Workflow**
